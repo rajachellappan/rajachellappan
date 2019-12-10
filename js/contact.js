@@ -50,7 +50,7 @@ $(document).ready(function(){
                 $(form).ajaxSubmit({
                     type:"POST",
                     data: $(form).serialize(),
-                    url:"https://formspree.io/mzbzonbp",
+                    //url:"https://formspree.io/mzbzonbp",
                     success: function() {
                         $('#contactForm :input').attr('disabled', 'disabled');
                         $('#contactForm').fadeTo( "slow", 0.15, function() {
