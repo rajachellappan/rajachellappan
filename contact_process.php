@@ -33,4 +33,10 @@
 
     $send = mail($to, $subject, $body, $headers);
 
+if(mail($to, $subject, $message, $headers)){
+    echo 'Your mail has been sent successfully.';
+} else{
+    echo 'Unable to send email. Please try again.';
+}
+
 ?>
