@@ -446,6 +446,15 @@ body, p, h1, h2, h3, h4, h5, h6 {
   background: #ff3ba4;
 }
 
+.social_icon li:nth-child(9) a {
+  color: #ff3ba4;
+  border-color: #ff3ba4;
+}
+
+.social_icon li:nth-child(9):hover a {
+  background: #ff3ba4;
+}
+
 .social_icon li:last-child {
   margin-right: 0px;
 }
