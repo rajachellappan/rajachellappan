@@ -370,19 +370,15 @@ body, p, h1, h2, h3, h4, h5, h6 {
   height: 40px;
   width: 40px;
   text-align: center;
-  border: 1px solid #4FCE5D;
+  border: 1px solid #677fb5;
   display: block;
   line-height: 40px;
   font-size: 18px;
   border-radius: 5px;
   transition: all 400ms linear 0s;
-  color: #4FCE5D;
+  color: #677fb5;
 }
 
-.social_icon li:hover a {
-  background: #677fb5;
-  color: #fff;
-}
 
 .social_icon li:nth-child(2) a {
   color: #3b5998;
@@ -467,6 +463,11 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .social_icon li:last-child:hover a {
   background: #faaa5e;
+}
+
+.social_icon li:hover a {
+  background: #677fb5;
+  color: #fff;
 }
 
 
