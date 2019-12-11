@@ -1,8 +1,8 @@
 /*----------------------------------------------------
 @File: Default Styles
-@Author: Rocky Ahmed
-@URL: http://wethemez.com
-Email: rockybd1995@gmail.com
+@Author: Raja Chellappan
+@URL: https://www.rajachellappan.com
+Email: raja.chellappan@outlook.com
 
 This file contains the styling for the actual theme, this
 is the file you need to edit to change the look of the
@@ -387,8 +387,6 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .social_icon li:nth-child(2):hover a {
   background: #3b5998;
-  transform: scale(1.5);
-  transform: rotate(360);
 }
 
 .social_icon li:nth-child(3) a {
@@ -398,8 +396,6 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .social_icon li:nth-child(3):hover a {
   background: #00acee;
-  transform: rotate(360);
-  transform: scale(1.5);
 }
 
 .social_icon li:nth-child(4) a {
