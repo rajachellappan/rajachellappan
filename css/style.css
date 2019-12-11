@@ -370,7 +370,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   height: 40px;
   width: 40px;
   text-align: center;
-  border: 1px solid #677fb5;
+  border: 1px solid #4FCE5D;
   display: block;
   line-height: 40px;
   font-size: 18px;
@@ -380,7 +380,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .social_icon li:nth-child(2) a {
-  color: #3b5998;
+  color: #70c2e9;
   border-color: #70c2e9;
 }
 
