@@ -380,7 +380,8 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .social_icon li:hover a {
-  background: #4FCE5D;
+  background: #677fb5;
+  color: #fff;
 }
 
 .social_icon li:nth-child(2) a {
@@ -468,10 +469,6 @@ body, p, h1, h2, h3, h4, h5, h6 {
   background: #faaa5e;
 }
 
-.social_icon li:hover a {
-  background: #677fb5;
-  color: #fff;
-}
 
 /* End About Person area css
 ============================================================================================ */
