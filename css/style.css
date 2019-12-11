@@ -1391,22 +1391,22 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .footer_inner ul li a {
-  background: #677fb5;
+  background: #4FCE5D;
   color: #fff;
 }
 
 .footer_inner ul li:nth-child(2) a {
-  background: #70c2e9;
+  background: #3b5998;
   color: #fff;
 }
 
 .footer_inner ul li:nth-child(3) a {
-  background: #895a4d;
+  background: #00acee;
   color: #fff;
 }
 
 .footer_inner ul li:nth-child(4) a {
-  background: #d34836;
+  background: #C13584;
   color: #fff;
 }
 
@@ -1421,22 +1421,22 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .footer_inner ul li:nth-child(7) a {
-  background: #5ecbf3;
+  background: #211F1F;
   color: #fff;
 }
 
 .footer_inner ul li:nth-child(8) a {
-  background: #ff3ba4;
+  background: #00aff0;
   color: #fff;
 }
 
 .footer_inner ul li:nth-child(9) a {
-  background: #e299c2;
+  background: #ff7700;
   color: #fff;
 }
 
 .footer_inner ul li:last-child a {
-  background: #faaa5e;
+  background: #ee802f;
   color: #fff;
 }
 
