@@ -379,13 +379,17 @@ body, p, h1, h2, h3, h4, h5, h6 {
   color: #4FCE5D;
 }
 
+.social_icon li:hover a {
+  background: #4FCE5D;
+}
+
 .social_icon li:nth-child(2) a {
-  color: #075e54;
-  border-color: #075e54;
+  color: #3b5998;
+  border-color: #3b5998;
 }
 
 .social_icon li:nth-child(2):hover a {
-  background: #70c2e9;
+  background: #3b5998;
 }
 
 .social_icon li:nth-child(3) a {
