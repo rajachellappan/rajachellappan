@@ -1,5 +1,5 @@
-var d = 15;
-var m= 12;
+var d = 06;
+var m= 02;
 var y = 1993;
 var cd = new Date().getDay()+ 8;
 var cm= new Date().getMonth()+1;
