@@ -1,0 +1,24 @@
+body {
+  /* font-family: 'Montserrat', sans-serif; */
+  /* font-family: 'Ubuntu', sans-serif; */
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+/* .container-fluid{
+  padding: 3% 15%;
+} */
+
+.company-heading {
+  text-align: center;
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3em;
+  line-height: 1.5;
+  color: white;
+}
+
+.company-description {
+  text-align: justify;
+}
